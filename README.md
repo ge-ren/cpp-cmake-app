@@ -1,1 +1,1 @@
-Execute a command and get both output and exit code
+CMake project. Build all platforms, run test and upload binaries
