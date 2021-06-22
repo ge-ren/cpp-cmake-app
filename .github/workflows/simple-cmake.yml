@@ -1,5 +1,4 @@
 name: simple-cmake
-
 on:
   push:
     branches: [ main ]
