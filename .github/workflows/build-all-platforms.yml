@@ -1,4 +1,4 @@
-name: Build, run test and upload binaries
+name: Build all platforms, run test and upload binaries
 
 on: [push, pull_request]
 
